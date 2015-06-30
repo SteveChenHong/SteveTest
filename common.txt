@@ -1,2 +1,6 @@
 master sing
+<<<<<<< HEAD
+steve sing
+=======
 Amy sign
+>>>>>>> Amy
